@@ -1,5 +1,5 @@
 
-**Hi there, I'm Shibangshu Ghosh**
+<h2>Hi there, I'm Shibangshu Ghosh<h2>
 <br><br>Data Analyst<br><br>Enthusiastic about transforming raw data into valuable insights and supporting data-driven decision-making. I enjoy analyzing datasets, creating meaningful visualizations, and identifying trends that help solve real-world business challenges.<br><br>About Me<br>Currently developing my skills in Data Analytics<br>Interested in data visualization, SQL, and business intelligence<br>Interested  about converting data into practical and impactful insights<br>Willing to continuously learn and expand my knowledge in analytics<br><br>📧 Reach me at: shibungshughosh2003@gmail.com<br><br>Current Goals<br><br>Grow into a proficient Data Analyst<br>Strengthen Python skills for data analysis<br>Create interactive dashboards and analytics projects<br>Perform Exploratory Data Analysis (EDA) effectively<br>Build a foundation in Machine Learning concepts<br>Contribute to open-source projects related to data and analytics<br><br><br>Currently Learning<br>Python<br>Pandas & NumPy<br>Data Cleaning and Exploratory Data Analysis (EDA)<br>Power BI<br>Advanced SQL<br>Statistics for Data Analysis<br><br>Thanks for visiting my profile!
 
 
